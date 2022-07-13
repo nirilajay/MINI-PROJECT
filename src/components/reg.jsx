@@ -6,7 +6,7 @@ class Reg extends Component {
     window.location.href = `mailto:${this.state.email}`;
   };
   state = {
-    email: "nskumavat@outlook.com"
+    email: "aan27mit@gmail.com"
   };
   render() {
     return (

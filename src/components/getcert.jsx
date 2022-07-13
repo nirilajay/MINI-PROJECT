@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Form, Button } from "react-bootstrap";
-import b1 from "../b3.jpg";
+import b1 from "../b1.jpg";
 import CertFound from "./certfound";
 
 class Getcert extends Component {
