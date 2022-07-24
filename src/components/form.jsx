@@ -93,7 +93,7 @@ class Forms extends Component {
                 name="email"
                 value={this.state.email}
                 onChange={this.handleChange}
-                placeholder="Email@email.com"
+                placeholder="Email@gmail.com"
               />
             </Form.Group>
             <Form.Group>
