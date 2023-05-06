@@ -26,7 +26,7 @@ class Getcert extends Component {
 
   gettransaction = event => {
     event.preventDefault();
-    const url = "https://goerli.etherscan.io/tx/" + this.state.txh;
+    const url = "https://sepolia.etherscan.io/tx/" + this.state.txh;
     window.open(url);
     console.log(url);
   };
